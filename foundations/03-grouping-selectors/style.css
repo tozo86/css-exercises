@@ -1,0 +1,13 @@
+.b1-class, .b2-class {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.b1-class {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.b2-class {
+    background-color: #ffff00;
+}
